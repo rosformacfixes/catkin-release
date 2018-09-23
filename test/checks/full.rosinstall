@@ -1,7 +1,7 @@
-- git:
-    uri: 'git://github.com/ros/catkin.git'
-    local-name: catkin
-    version: master
+# - git:
+#     uri: 'git://github.com/ros/catkin.git'
+#     local-name: catkin
+#     version: master
 
 - git:
     uri: 'git://github.com/willowgarage/catkin-debs.git'
@@ -73,14 +73,14 @@
     local-name: rospkg
     uri: https://kforge.ros.org/rosrelease/rospkg
 
-- hg:
-    local-name: rospack
-    uri: https://kforge.ros.org/rosrelease/rospack
+# - hg:
+#     local-name: rospack
+#     uri: https://kforge.ros.org/rosrelease/rospack
 
 - svn:
     local-name: rx
     uri: https://code.ros.org/svn/ros/stacks/rx/trunk
 
-- hg:
-    local-name: actionlib
-    uri: https://kforge.ros.org/common/actionlib
+# - hg:
+#     local-name: actionlib
+#     uri: https://kforge.ros.org/common/actionlib

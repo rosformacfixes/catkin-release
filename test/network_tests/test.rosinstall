@@ -70,9 +70,9 @@
     uri: 'git://github.com/ros/common_msgs.git'
     local-name: common_msgs
 
-- git:
-    uri: 'git://github.com/ros/rospack.git'
-    local-name: rospack
+# - git:
+#     uri: 'git://github.com/ros/rospack.git'
+#     local-name: rospack
 
 # - hg:
 #     local-name: actionlib
